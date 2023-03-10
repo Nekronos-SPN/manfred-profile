@@ -162,8 +162,16 @@
         }
       ],
       "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
         "Data Scientist",
-        "Software Architect"
+        "DevOps & Infrastructure & SRE",
+        "Hardware Engineer",
+        "IT Manager",
+        "Machine Learning Engineer",
+        "Software Architect",
+        "SysAdmin",
+        "Tech Lead"
       ]
     },
     "status": "searchingActively"
