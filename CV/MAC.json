@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,6 @@
       "name": "Eduardo",
       "surnames": "Rodríguez",
       "title": "Computer scientist and engineer",
-      "description": "",
       "avatar": {
         "alt": "CVLogo.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/37981118-6c5d-4ebc-ac17-3263923a8b8d_cvlogo.png"
@@ -17,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -35,12 +33,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -61,6 +57,45 @@
           "name": "C",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Degree in Computer Science and Engineering",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "UC3M",
+          "description": "I am a third-year Computer Science student with a passion for developing innovative solutions to complex problems, utilizing computer hardware and software to their fullest potential. My studies have given me exposure to a wide range of technologies, such as databases, artificial intelligence, cyber security, and web development, which allows me to construct interdisciplinary technological projects.\n\nI am highly motivated and dedicated to learning and building upon my skills. In my free time, I like to stay up to date with the latest technology trends and explore new programming languages to ensure I have the necessary skills to evolve in this technological era. \n\nI consider myself an innovative thinker when it comes to creating technological solutions, due to my capacity for thinking outside the box. My innate curiosity about technology pushes me to explore and discover new ways to use technology in creative ways. I am confident in my skill to generate creative ideas and shape them into successful projects.",
+          "URL": "https://www.uc3m.es/grado/informatica",
+          "image": {
+            "alt": "1371258426512.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/090dcbb8-951e-4e3c-8104-0cbee1f2005e_1371258426512.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
@@ -126,7 +161,6 @@
         "Data Scientist",
         "Software Architect"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
